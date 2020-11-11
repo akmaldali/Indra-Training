@@ -1,1 +1,2 @@
-# Indra-Training
+# git-indra-training
+Git Training
